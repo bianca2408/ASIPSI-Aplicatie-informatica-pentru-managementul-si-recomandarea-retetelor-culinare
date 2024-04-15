@@ -1,1 +1,1 @@
-# ASIPSI-Aplicatie-informatica-pentru-managementul-si-recomandarea-retetelor-culinare
+Link Jira: https://team-szikty6ukkph.atlassian.net/jira/software/c/projects/REC/boards/3/backlog?assignee=712020%3A114e5bb2-1aa4-48d7-bb35-1ec192bf7b81%2Cunassigned&issueParent=10026%2C10023%2C10024%2C10025%2C10022
